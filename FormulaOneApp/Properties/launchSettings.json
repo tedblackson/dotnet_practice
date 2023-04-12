@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FormulaOneApp": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:14910;http://localhost:14911"
+    }
+  }
+}
